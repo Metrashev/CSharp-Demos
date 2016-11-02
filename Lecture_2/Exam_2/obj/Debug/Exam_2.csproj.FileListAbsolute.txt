@@ -1,0 +1,9 @@
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Exam_2\bin\Debug\Exam_2.exe.config
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Exam_2\bin\Debug\Exam_2.exe
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Exam_2\bin\Debug\Exam_2.pdb
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Exam_2\obj\Debug\Exam_2.csprojResolveAssemblyReference.cache
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Exam_2\obj\Debug\Exam_2.exe
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Exam_2\obj\Debug\Exam_2.pdb
+C:\Users\Metrashev\Documents\GitHub\CSharp\Lecture_2\Exam_2\bin\Debug\Exam_2.exe.config
+C:\Users\Metrashev\Documents\GitHub\CSharp\Lecture_2\Exam_2\obj\Debug\Exam_2.exe
+C:\Users\Metrashev\Documents\GitHub\CSharp\Lecture_2\Exam_2\obj\Debug\Exam_2.pdb

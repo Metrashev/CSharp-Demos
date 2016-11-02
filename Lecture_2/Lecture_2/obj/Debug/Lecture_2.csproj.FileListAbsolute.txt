@@ -1,0 +1,6 @@
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Lecture_2\bin\Debug\Lecture_2.exe.config
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Lecture_2\bin\Debug\Lecture_2.exe
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Lecture_2\bin\Debug\Lecture_2.pdb
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Lecture_2\obj\Debug\Lecture_2.csprojResolveAssemblyReference.cache
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Lecture_2\obj\Debug\Lecture_2.exe
+c:\users\metrashev\documents\visual studio 2015\Projects\Lecture_2\Lecture_2\obj\Debug\Lecture_2.pdb
